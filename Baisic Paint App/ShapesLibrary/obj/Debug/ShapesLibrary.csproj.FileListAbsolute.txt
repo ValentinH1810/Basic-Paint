@@ -1,0 +1,12 @@
+C:\Users\USER\Desktop\ShapesLibrary\bin\Debug\ShapesLibrary.dll
+C:\Users\USER\Desktop\ShapesLibrary\bin\Debug\ShapesLibrary.pdb
+C:\Users\USER\Desktop\ShapesLibrary\obj\Debug\ShapesLibrary.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\ShapesLibrary\obj\Debug\ShapesLibrary.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\ShapesLibrary\obj\Debug\ShapesLibrary.dll
+C:\Users\USER\Desktop\ShapesLibrary\obj\Debug\ShapesLibrary.pdb
+C:\Users\USER\Desktop\Baisic Paint App\ShapesLibrary\bin\Debug\ShapesLibrary.dll
+C:\Users\USER\Desktop\Baisic Paint App\ShapesLibrary\bin\Debug\ShapesLibrary.pdb
+C:\Users\USER\Desktop\Baisic Paint App\ShapesLibrary\obj\Debug\ShapesLibrary.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Baisic Paint App\ShapesLibrary\obj\Debug\ShapesLibrary.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Baisic Paint App\ShapesLibrary\obj\Debug\ShapesLibrary.dll
+C:\Users\USER\Desktop\Baisic Paint App\ShapesLibrary\obj\Debug\ShapesLibrary.pdb

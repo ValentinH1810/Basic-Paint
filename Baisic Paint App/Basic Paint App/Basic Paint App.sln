@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basic Paint App", "Basic Paint App\Basic Paint App.csproj", "{AA43364C-BFD8-41B7-96E7-79EED58327B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapesLibrary", "ShapesLibrary\ShapesLibrary.csproj", "{80AA5B3B-2206-448D-8B60-2A340FE71753}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA43364C-BFD8-41B7-96E7-79EED58327B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA43364C-BFD8-41B7-96E7-79EED58327B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA43364C-BFD8-41B7-96E7-79EED58327B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA43364C-BFD8-41B7-96E7-79EED58327B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80AA5B3B-2206-448D-8B60-2A340FE71753}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80AA5B3B-2206-448D-8B60-2A340FE71753}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80AA5B3B-2206-448D-8B60-2A340FE71753}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80AA5B3B-2206-448D-8B60-2A340FE71753}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4FD3FE9-4DFE-4F83-AC6F-571D317670C6}
+	EndGlobalSection
+EndGlobal
